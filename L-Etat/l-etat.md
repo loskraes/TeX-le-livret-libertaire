@@ -2,13 +2,13 @@
 
 Par la Fédération des Communistes Anarchistes (Italie)
 
-**AVANT-PROPOS**
+# AVANT-PROPOS
 
-**Crise de l'État Providence et la consociation**
+## Crise de l'État Providence et la consociation
 
 N'est-il pas contradictoire que face à la crise de l'État Providence, nous, communistes anarchistes, nous retrouvions dans notre action syndicale et politique parmi les rares partisans de l'intervention de l'État ? N'est-il pas paradoxal que ce soit précisément nous qui finissions par défendre la nécessité d'étendre l'intervention de l'État, alors qu'une des caractéristiques fondamentales de notre idéologie politique est celle de l'extinction de l'État ?
 
-**Crise de l'État Providence et des économies planifiées**
+## Crise de l'État Providence et des économies planifiées
 
 Comme on le sait, l'État Providence est né du keynésianisme et, par les forces de sociales-démocrates, il est devenu l'une des pierres angulaires du développement des sociétés régies par des systèmes capitalistes avancés. Il permet d'absorber les conflits sociaux et de les orienter vers une croissance plus équilibrée de l'accumulation, de réinvestir les salaires de manière à assurer une croissance régulière de l'économie, tout en garantissant de meilleures conditions de vie aux citoyens. L'État Providence n'élimine pas la pauvreté et l'inégalité dans la répartition des ressources, mais il rend certainement moins dramatique le conflit entre la misère et la richesse, il aurait dû garantir que certains services dits essentiels tels que les soins de santé, l'éducation, le droit au logement, à un salaire minimum, donc que des conditions de vie globalement acceptables puissent être fournies à tous.
 
@@ -16,28 +16,28 @@ Cette conception du rôle de l'État a été opposée par les pays dits du « so
 
 La longue phase d'expansion qu'a connue l'économie mondiale a mis en crise les deux systèmes de gestion sociale. D'où la crise des systèmes de « démocratie populaire » et celle des systèmes d'État Providence sous le néolibéralisme. Dans la nouvelle situation, le rôle de l'État change à l'Est comme à l'Ouest, et les systèmes de gestion de l'accumulation caractérisés par la déréglementation et la maximisation du profit se poursuivent à travers l'abandon des États-nations aux multinationales et la concentration économique et financière progressive qui a désormais atteint des dimensions planétaires. Cette stratégie du capital a pour corollaire nécessaire l'appauvrissement progressif et inéluctable du quart-monde, la dégradation des conditions de vie et de travail des habitants des pays riches eux-mêmes, la disparition de la sécurité sociale, la barbarisation des relations intersubjectives avec la poussée toujours plus forte de l'individualisme et de la satisfaction compétitive de ses propres besoins par rapport à ceux des autres. Bref, c'est ce phénomène que l'on appelle communément la logique de la privatisation.
 
-**Choix consociatifs**
+## Choix consociatifs
 
 L'une des formes de défense partielle contre ce processus de transformation adoptée par les groupes les plus forts est la création d'agrégats sociaux par segments sociaux. Il s'agit de groupes d'individus unis par de forts motifs d'identification \- position sociale, recensement, religion, race, etc. \- qui se mobilisent pour défendre les intérêts collectifs communs à l'ensemble auquel ils appartiennent. Une telle société peut trouver des règles de coexistence et une répartition équilibrée des ressources, mais ce n'est certainement pas celle que nous voulons.
 
 Cependant, la crise de la structure de l'État Providence incite certains d'entre nous à émettre l'hypothèse de la création de structures et de services autogérés qui reflètent notre orientation culturelle et répondent à nos besoins. Si dans le passé \- rappelons l'expérience de la Colonie Cecilia ou de l'École moderne de Ferrer \- de telles expériences étaient acceptables soit comme des expériences immatures (c'est le cas du premier exemple), soit comme des instruments de lutte, aujourd'hui une telle hypothèse est tout à fait réabsorbable, voire facilitée et nourrie parce qu'elle est parfaitement organique à la logique consociative.
 
-**Les luttes pour le renforcement des services publics**
+## Les luttes pour le renforcement des services publics
 
 En tant que communistes anarchistes, nous pouvons et devons lutter pour la liquidation de l'État, mais cela ne signifie pas qu'il faille lutter pour que le coût et la responsabilité de la fourniture de certains services n'incombent pas à la structure sociale. Bien sûr, pour nous, les organes de gestion politique et administrative changent – nous ne soutiendrons jamais le système de santé comme il existe – mais nous devrons certainement penser à un service de santé qui offre assistance et aide à tous les citoyens et dont les coûts incombent à la communauté. Il en va de même pour les écoles, le nettoyage des rues, la distribution de l'eau et les services de transport que l'on appelle communément les services publics. Le problème n'est donc pas celui de la nature publique ou privée de certains services, mais celui de l'organe ou des organes politiques qui gèrent et géreront l'entreprise, de la composition des organes administratifs, même s'ils sont techniquement nécessaires, et de la manière dont les contrôles politiques sont exercés sur eux par la collectivité.  
  
 
-**INTRODUCTION**
+# INTRODUCTION
 
 Un des piliers de l'anarchisme historique est sans aucun doute l'anti-étatisme. Sans vouloir aller jusqu'aux excès de ceux qui nient même l'État Providence à cause de la présence de ce terrible petit mot et tombent dans les bras du libéralisme le plus féroce, même chez nous, trop souvent, la conception de la nécessité d'une société sans État conduit à des distorsions, qui proviennent, à notre avis, d'une prise en charge hâtive du bagage historique de l'anarchisme. Ce bagage doit en fait être contextualisé et analysé en profondeur, à une époque où le capitalisme rampant prône la dissolution de l'État en tant qu'appareil administratif bureaucratique qui perçoit des impôts et fournit des services.
 
  
 
-**LA NAISSANCE DE L'ÉTAT ET CE QUI L'A PRÉCÉDÉ**
+# LA NAISSANCE DE L'ÉTAT ET CE QUI L'A PRÉCÉDÉ
 
 Un peu d'histoire ne nuit à personne \! Le moloch d'État est né, dans sa configuration moderne, il y a plus de deux siècles. Cela coïncide étroitement avec l'émergence de la classe bourgeoise comme nouvelle classe dirigeante. Ce n'est pas un hasard si la plupart des fonctions typiques de l'État moderne prennent forme dans la France de la révolution de 1789\. Il est logique de s'interroger sur les raisons profondes de cette transformation des structures de pouvoir dans la société, sur les relations sociales qui ont cessé d'exister pour faire place à d'autres, sur les changements que cela a entraînés dans les relations de classe et, surtout, sur la manière dont la domination de la classe bourgeoise émergente s'est articulée.
 
-**Les relations sociales dans l'organisation féodale**
+## Les relations sociales dans l'organisation féodale
 
 Lorsque certains anarchistes dénoncent à juste titre les échecs que l'État, en tant qu'organisation bourgeoise de la société, provoque dans les classes subalternes, ils s'abstraient trop superficiellement de la situation que ces classes ont connue avant la naissance de l'État libéral. L'absence totale de règles permettait aux détenteurs du pouvoir n'importe quel arbitraire au détriment des subalternes : la lecture des Fiancés est, nous le croyons, une expérience commune à tous. À la réflexion, il apparaît clairement qu'il s'agit là, après tout, de la véritable essence du pouvoir absolu.
 
@@ -45,7 +45,7 @@ Les pays pauvres étaient non seulement très pauvres (ils le sont toujours), ma
 
 Le concept des droits n'existait même pas. Dans l'Antiquité, celle-ci ne s'appliquait qu'aux citoyens libres de la cité-État, mais dans la dégénérescence féodale, elle était encore plus restreinte aux membres de l'aristocratie et du haut clergé. La grande majorité de la population vivait dans une situation de déni total de la dignité humaine.
 
-**L'État libéral et le droit**
+## L'État libéral et le droit
 
 *Liberté, fraternité, égalité,* telle est la devise fondatrice de l'État libéral moderne. Inutile de répéter, entre nous, l'hypocrisie qu'elle recèle. Ce qui est intéressant, c'est une autre considération. Le passage d'une organisation sociale dépourvue de règles (seule celle du plus fort) à une organisation qui se prétend fondée sur des règles de base au-dessus de tout individu est loin d'être sans intérêt. Le principe, même s'il tend toujours à être ignoré, est là et il produit ses effets, malgré l'arrogance du pouvoir.
 
@@ -53,7 +53,7 @@ Pour donner un exemple, l'organisation des travailleurs serait inconcevable dans
 
 La société libérale, en se couvrant du voile des droits humains, voile nécessaire à sa lutte contre les anciennes classes dominantes, sanctionne un principe qui est progressif, en fait et en résultat, même pour les classes qui restent subordonnées.
 
-**Participation progressive**
+## Participation progressive
 
 « *Le solidarisme kropotkinien, développé sur le terrain naturaliste et ethnographique, confondait l'harmonie de la nécessité biologique des abeilles avec la discordia concors et la concordia discors propres à l'agrégat social, et avait trop (sic \!) de formes primitives de sociétés-associations présentes pour comprendre l'ubi societas ibi jus, “ là où il y a une société, il y a un droit ”, inhérent à des formes politiques qui ne sont pas préhistoriques ».*
 
@@ -65,7 +65,7 @@ La seconde est que les règles « partagées » auront une double valeur : lier 
 
  
 
-**L'ÉTAT DU 19ÈME SIÈCLE ET LA NAISSANCE DE LA THÉORIE ANARCHISTE**
+# L'ÉTAT DU 19ÈME SIÈCLE ET LA NAISSANCE DE LA THÉORIE ANARCHISTE
 
 Le point de départ de la réflexion anarchiste sur le rôle de l'État avant, pendant et après la révolution sociale est sans aucun doute Bakounine. Il faut dire tout de suite que pour comprendre le rôle de l'État moderne et les moyens de le dépasser, l'approche bakouniniste n'est pas d'un grand secours, parce qu'elle est trop liée aux nécessités de sa lutte et son contexte. Malheureusement, certaines de ses affirmations, prises hors contexte et sans aucun effort d'interprétation, ont été rendues incontestables et pour des principes inflexibles et immuables de l'anarchisme. Pour sortir d'une supposition superficielle de mots d'ordre qui finissent par fausser toute entreprise politique, il est nécessaire de faire quelques rappels.
 
@@ -87,11 +87,11 @@ Bakounine avait également averti que le non-État anglais (décentralisé) n'é
 
 Cependant, Bakounine ne semble pas toujours indifférent aux règles de la société dans laquelle se déroule la lutte révolutionnaire, ce qui prouve que cet aspect n'est resté que peu développé dans sa pensée.
 
-**L'ÉVOLUTION DE L'ÉTAT**
+# L'ÉVOLUTION DE L'ÉTAT
 
 Bien qu'au milieu du siècle dernier l'évolution de l'organisme étatique ait déjà pris des proportions repérables (mais qui ont échappé non seulement à Bakounine pour les raisons mentionnées plus haut, mais aussi à Marx), les connotations qu'il allait prendre étaient en effet difficiles à prévoir. Il y a deux considérations qu'il est intéressant de développer : d'une part, l’amalgame des compétences qu'il en est venu à assumer et l'évaluation de leurs retombées dans l'organisation sociale dans son ensemble ; d'autre part, si l’existence de l'État n’a que eu des impacts négatifs sur le « progrès » du genre humain, il doit être considéré comme une parenthèse de la tendance humaine originelle à la solidarité mutuelle. Il est évident que la réponse à ces deux questions est loin d'être négligeable pour l'évaluation des luttes d'aujourd'hui, bien qu'elle puisse difficilement constituer, comme nous le verrons, un changement de perspective pour la réalisation d'une société sans classes et, d'ailleurs, sans État.
 
-**L'État entrepreneur**
+## L'État entrepreneur
 
 Lorsque nous parlons de l'État moderne, nous avons tendance à confondre trois fonctions que l'appareil d'État lui-même exerce, mais qui sont profondément différentes les unes des autres et ne sont pas du tout nécessaires l'une à l'autre : la régulation du cours du cycle économique, l'intervention directe dans l'économie des entreprises et l'aide sociale. Ces trois fonctions se sont ajoutées au cours de ce siècle, se superposant au rôle traditionnel de gendarme des intérêts bourgeois, bien connu des révolutionnaires du 19ème siècle.
 
@@ -99,7 +99,7 @@ Les théoriciens de l'avènement de la technobureaucratie ont vu dans cette mult
 
 En parfaite continuité avec le déterminisme de Kropotkine, pour eux l'histoire est à sens unique et les voies de l'évolution sociale sont déjà tracées, de sorte que les tendances qui se manifestent entre les années 1930 et 1970 indiqueraient sans équivoque les débouchés futurs : leur vision téléologique n'est que l'envers de la vision marxiste, puisque toutes deux manquent de la connaissance de la fonctionnalité de l'organisation sociale aux intérêts contingents du capital et par conséquent de la réversibilité de choix qui leur paraissent au contraire définitifs. Ce n'est donc pas un hasard si la désintégration de l'appareil d'État, qui a commencé à se manifester au cours des deux dernières décennies, les trouve théoriquement désarticulés et bredouillants dans leurs propositions, sinon résolument et irrémédiablement cohérents avec les mouvements en cours dans les hautes sphères de l'économie mondiale.
 
-***Contrôler le cycle***
+### Contrôler le cycle
 
 L'impossibilité de prévenir des crises cycliques de plus en plus dévastatrices, après l'échec des théories marginalistes visant à interpréter scientifiquement les tendances du marché, a conduit le capital à une mutation drastique de ses caractéristiques. Au cours des années allant du début de la quatrième décennie à la fin de la septième, l'État, de simple gendarme des intérêts capitalistes (drainage fiscal, contrôle policier, politique douanière, etc.), est devenu le moteur de l'économie, se chargeant, par une augmentation substantielle de la pression fiscale et l’initiative de travaux publics grandioses, de relancer le cycle économique précipité vers l'abîme de la crise.
 
@@ -107,7 +107,7 @@ Cette nouvelle approche économique (keynésianisme) a eu pour conséquence néc
 
 Il est clair que le capitalisme invente une nouvelle ère pour sa propre prospérité, mais en même temps des masses croissantes du prolétariat métropolitain dans les pays industrialisés accèdent à la consommation de biens qui leur étaient auparavant inaccessibles. La saison des luttes de la fin des années 60 a clairement montré que cette circonstance ne se traduisait pas par une intégration définitive des classes subalternes dans la logique de l'entreprise ; au contraire, c'est précisément à partir des secteurs les plus identifiables comme représentants des soi-disant masses ouvrières que la contestation systémique a commencé et a continué à s'articuler autour d'eux.
 
-***Gestion directe des capitaux***
+### Gestion directe des capitaux
 
 Une nouvelle étape a été franchie dans les années 1930\. L'évolution se fait presque naturellement, mais elle n'est pas nécessaire ; à tel point qu'elle ne se produit pas dans le système capitaliste central : les États-Unis. Une lecture superficielle pourrait assimiler ce qui se passe dans les deux mondes antagonistes de l'économie planifiée globale (zone soviétique) et de l'économie planifiée directionnelle (Europe capitaliste). Mais, comme nous le verrons, les deux cas d'école présentent des caractéristiques qui ne les rendent pas assimilables.
 
@@ -121,7 +121,7 @@ Il ne fait aucun doute qu'une classe de gestionnaires publics s'est enrichie gr�
 
 En revanche, l'élimination physique d'Enrico Mattei, président de l'AGIP et partisan d'une politique autonome d'approvisionnement en pétrole brut qui couperait les ponts avec le cartel pétrolier international (les sept sœurs), par les compagnies pétrolières elles-mêmes, est plus qu'une piste de réflexion.
 
-***Bien-être***
+### Bien-être
 
 L'État, au cours du siècle dernier, a progressivement assumé le rôle de fournisseur de services sociaux (éducation, santé, bien-être, transports, etc.). L'avantage pour les patrons est évident : ils se déchargent sur la fiscalité générale (à laquelle ils contribuent relativement moins que les salariés) de la préparation, de la récupération, d'une timide forme de sécurité et de la mobilité de la main-d'œuvre, ce qui se traduit par une meilleure qualité des performances professionnelles et, on l'espère, par une diminution des conflits sociaux. Cela n'empêche pas que, même pour les travailleurs, tout cela ne se traduit pas par un avantage indéniable, notamment parce que l'alternative n'est pas une baisse de la charge fiscale, sur laquelle il conviendra de revenir, mais l'abandon des formes de protection de la vie associées à la jungle du profit, comme nous le constatons avec une clarté absolue.
 
@@ -131,19 +131,19 @@ Refuser d'examiner la réalité complexe de l'État et de toutes ses formes, c'e
 
 Ainsi, si l'État est l'ennemi, tout ce qui vient de lui doit être rejeté, quel que soit l'autre ennemi, le capitalisme, qui vise aujourd'hui précisément à la destruction de l'État. Mais il en est une autre, plus insidieuse mais non moins erronée. Le prolétariat et le capital étant antagonistes dans leurs intérêts, tout ce qui profite au second ne peut être qu'un désavantage pour le premier. S'il en était ainsi, puisqu'il est indéniable que les salaires sont le moins que les patrons aient à donner pour obtenir la pleine exploitation de la force de travail et qu'ils sont en eux-mêmes un avantage pour les employeurs, ils devraient être rejetés par les salariés. En effet, de même que l'on lutte (ou plutôt il serait souhaitable que l'on lutte) pour améliorer la part des marchandises en faveur des salaires et contre celle du profit, de même on devrait s'efforcer de tourner les services de plus en plus dans le sens utile aux classes exploitées et de moins en moins en faveur des classes aisées. Sans que cela signifie, bien entendu, que l'on puisse renoncer au bouleversement révolutionnaire pour parvenir à une société juste, libre et égalitaire.
 
-**De l'État primitif à l'État moderne**
+## De l'État primitif à l'État moderne
 
 Il résulte des remarques sommaires qui précèdent qu'en un siècle et demi (et comment pourrait-il en être autrement ?) l'État a substantiellement modifié son rôle, son fonctionnement, sa structure. Si, d'une part, le marxisme, en séparant le rôle du gouvernement (le comité d'entreprise de la bourgeoisie, selon l'aphorisme bien connu de Marx) de celui de l'État en tant qu'appareil, a fini par émettre l'hypothèse de l'utilisation à des fins révolutionnaires de la machine étatique, soumise à une nouvelle gestion, une partie de l'anarchisme, en identifiant les deux fonctions, a prétendu perdre, au fil du temps, la capacité de distinction et, par conséquent, celle de l'orientation politique.
 
 Il est donc nécessaire de reconsidérer l'ensemble de la question si l'on veut échapper à l'emprise de l'acceptation de l'appareil d'État tel qu'il est ou à la négation a priori de tout ce qui en découle, ce qui nous conduirait tout autant dans les bras du néolibéralisme le plus agressif.
 
-**L'AMBIGUÏTÉ DU RÔLE DE L'ÉTAT**
+# L'AMBIGUÏTÉ DU RÔLE DE L'ÉTAT
 
 Si l'on fait abstraction de l'État absolutiste ou théocratique, pure expression du pouvoir d'une caste privilégiée (contre laquelle s'exerçait la critique de Bakounine, comme nous l'avons vu), encore en vigueur dans de nombreux pays au milieu du XIXe siècle, mais en tant que phénomène résiduel, notre attention doit se porter sur l'État libéral, désormais solidement implanté dans tout le monde du haut développement capitaliste (et dont on sait qu'il représente un moindre mal dans les pays tiers encore opprimés par des dictatures féroces).
 
 Les droits bourgeois sont, il est vrai, des fictions ; l'État n'est jamais impartial ; dans une société divisée en classes, différentes classes vivent et pratiquent même l'anarchie avec des conséquences tout à fait différentes en termes de vie et de punition. Pourtant, l'aphorisme bien connu de l'eau sale et du bébé doit être pris en compte, même si l'eau est grande et le bébé vraiment petit, et ce pour deux bonnes raisons. La première est qu'il serait de toute façon stupide de sacrifier l'enfant ; la seconde est que nous aiderions l'ennemi de classe qui vise précisément à conserver l'eau sale en éliminant l'enfant, qui serait le premier à disparaître.
 
-**L'État dans la révolution**
+## L'État dans la révolution
 
 Le point sur lequel les anarchistes se sont toujours opposés aux marxistes a été celui de la nécessité ou non de la survie de l'État dans la période de transition : centralisation des fonctions pour propager et défendre les résultats révolutionnaires pour les adeptes du socialisme dit scientifique ; décentralisation et prise en charge par le prolétariat de la gestion sociale pour que le prolétariat s'approprie immédiatement l'événement révolutionnaire comme solution aux problèmes générés par la société divisée en classes, pour les communistes anarchistes.
 
@@ -155,7 +155,7 @@ Deuxièmement, il faut éviter le glissement de contenu : l'administration des a
 
 Les anarchistes espagnols de 1936 n'en doutaient pas, et sachant que la révolution ne marche que si dès le premier jour (dans la mesure du possible) tout fonctionne, de l'approvisionnement aux services, ils ont organisé les travailleurs des services publics (par exemple les transports à Barcelone) pour les rendre utilisables. Il s'ensuit que s'il est juste de démolir et de ne pas changer l'appareil d'État bourgeois (comme on disait autrefois), cela ne doit pas concerner la fourniture de services sociaux : apprentissage des enfants, protection des personnes âgées, soins aux malades, transport des citoyens, etc. Il semble également évident de déduire que là où ces services fonctionnent déjà sur la base de normes valables pour tous et sont fournis au citoyen en tant que tel, la transition des travailleurs du secteur vers une gestion collectivisée et uniforme est plus facile et plus efficace que là où les mêmes services sont éclatés dans des mains privées et soumis à la logique du profit.
 
-**Le premier ennemi**
+## Le premier ennemi
 
 Les marxistes ont toujours soutenu que toute l'évolution historique est déterminée par la structure (la structure de production, avec les relations sociales qui y sont associées), tandis que les autres aspects (politique, culture, guerre, etc.) n'en sont que des conséquences plus ou moins directes, mais néanmoins nécessairement déterminées (superstructure).
 
@@ -169,7 +169,7 @@ C'est pour cette raison que, dans de nombreux écrits anarchistes, on affirme qu
 
 Rappelons au passage que les mafias du monde entier naissent ou résistent précisément comme une forme de contrôle social et policier, là où \- les rapports d'exploitation n'ayant pas été abolis \- les formes étatiques, incapables de garantir même par la force à la bourgeoisie le plein contrôle du territoire, se voient contraintes de le partager avec les pouvoirs forts des mafias, en les absorbant ou en se laissant imprégner par eux à tous les niveaux institutionnels.
 
-**Fonctions collectives et coercitives**
+## Fonctions collectives et coercitives
 
 En conclusion, une approche généralisante ne nous fait pas avancer d'un pas (mais reculer de beaucoup). Il est donc nécessaire de distinguer les différentes fonctions que l'État moderne remplit (ou plutôt qu'il remplissait avant le récent assaut néolibéral) : les fonctions de maintien de l'ordre social existant, tant à l'intérieur d'une région qu'au niveau international (la *guerre*, comme on l'a appelée), des fonctions de fourniture d'un niveau minimum de sécurité aux citoyens (l'*aide sociale*, précisément). Les premières sont purement coercitives et n'ont pas de raison d'être dans une société égalitaire, les secondes visent à une intégration sociale douce et jouent un rôle que toute société qui veut s'appeler telle doit assumer, même si c'est sous une forme variée.
 
@@ -181,7 +181,7 @@ Et n'oublions pas que si l'État est un obstacle à toute réalisation révoluti
 
  
 
-**À PROPOS DES RÈGLES**
+# À PROPOS DES RÈGLES
 
 L'anti-étatisme anarchiste a sans doute le mérite d'avoir historiquement porté l'attention sur des aspects que le marxisme a résolument négligés : le rôle du pouvoir politique, le rôle des institutions pendant et après l'événement révolutionnaire, le rôle des classes intellectuelles, la logique interne de l'administration et sa capacité d'auto-reproduction, l'autonomie évolutive de la superstructure dans certaines conditions et son influence sur l'évolution générale. Dans tous ces domaines, les acquisitions sont théoriquement irréversibles et prouvées par l'expérience des diverses tentatives de construction du socialisme autour des paramètres des formes les plus variées du marxisme.
 
@@ -195,7 +195,7 @@ C'est ainsi que l'on peut préparer la voie à une autogestion efficace de la so
 
  
 
-**POUR LA LIQUIDATION DE L'ÉTAT**
+# POUR LA LIQUIDATION DE L'ÉTAT
 
 Avant d'aborder le problème de la période de transition, il est nécessaire que l'organisation politique des communistes anarchistes clarifie brièvement, non seulement sur le plan terminologique, mais fondamentalement sur le plan stratégique, les différentes conceptions qui préfigurent la fin de l'État bourgeois, suite à la rupture politico-institutionnelle provoquée par une révolution victorieuse du prolétariat.
 
