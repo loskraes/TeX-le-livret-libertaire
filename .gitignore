@@ -1,7 +1,10 @@
-*/*.aux
-*/*.fdb_latexmk
-*/*.fls
-*/*.log
-*/*.out
-*/*.toc
-*/*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.pdf
+*-booklet_a?.tex
+*-??let_a?.tex
+*-doublepages_a?.tex

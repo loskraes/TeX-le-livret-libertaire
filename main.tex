@@ -1,0 +1,68 @@
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{shorttoc}
+
+\usepackage{titlesec}
+\titleclass{\part}{top}
+\titleformat{\part}[display]
+  {\normalfont\huge\bfseries}{\centering\partname\ \thepart}{20pt}{\Huge\centering}
+\titlespacing*{\part}{0pt}{50pt}{40pt}
+
+
+\usepackage[french]{minitoc}
+\setcounter{parttocdepth}{1}
+\mtcsetfeature{parttoc}{open}{\vspace{0cm}}
+\doparttoc[e]
+%\doparttoc
+%\renewcommand\ptctitle{}
+\renewcommand\beforeparttoc{}
+
+
+
+\usepackage[french]{babel}
+\usepackage[pdfpagelayout=TwoPageRight,colorlinks,hidelinks]{hyperref}
+
+\newcommand{\text}[3][\DefaultOpt]{%
+	\def\DefaultOpt{#2}%
+	\part[#1]{#2\\~\\\normalsize\normalfont texte original de #3}%
+	\mtcaddpart
+	\parttoc
+	\cleardoublepage
+}
+
+\renewcommand{\chaptermark}[1]{\markboth{\parbox{0.95\textwidth}{\raggedleft\thechapter.\ #1}}{\parbox{0.95\textwidth}{\thechapter.\ #1}}}
+\renewcommand{\sectionmark}[1]{\markright{\parbox{0.95\textwidth}{\thesection.\ #1}}{}}
+\addto\captionsfrench{\renewcommand{\partname}{Texte}}
+
+
+%\usepackage[placement=center,angle=0,color=blue!95,scale=11]{background}
+%\backgroundsetup{contents={-\thepage-}}
+
+\title{Le Livret Libertaire}
+\author{Traduction de texte}
+
+\begin{document} 
+
+\frontmatter
+\maketitle
+
+\chapter*{information page}
+Qui a fait quoi ici ?
+\chapter*{introduction}
+ptit texte introductif à ce qui suis.
+
+\shorttoc{Liste des textes}{-1}
+
+\mainmatter
+
+\text{L'État}{la Fédération des Communistes Anarchistes (Italie)}
+\input{l-etat.tex}
+
+\text[Es-tu anarchiste ?]{Es-tu anarchiste ?\\~\\La réponse pourrait te surprendre !}{David Greaber}
+\input{est-tu-anarchist}
+
+
+\backmatter
+\tableofcontents
+ 
+\end{document}

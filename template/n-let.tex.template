@@ -1,0 +1,9 @@
+% vim: ft=tex
+\documentclass[FORMATpaper,landscape]{book}
+
+\usepackage{pdfpages}
+
+\begin{document}
+\includepdf[pages=-, nup=2x1, noautoscale, signature=SIGNATURE]{SOURCE}
+\end{document}
+
