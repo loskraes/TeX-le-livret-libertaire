@@ -1,12 +1,16 @@
 \usepackage[utf8]{inputenc}
-\usepackage{geometry}
+%\usepackage{geometry}
 \usepackage{shorttoc}
+\usepackage{setspace}
+
+%\usepackage{fontspec}
+%\setmainfont{Open Dyslexic}
 
 \usepackage{titlesec}
 \titleclass{\part}{top}
 \titleformat{\part}[display]
   {\normalfont\huge\bfseries}{\centering\partname\ \thepart}{20pt}{\Huge\centering}
-\titlespacing*{\part}{0pt}{50pt}{40pt}
+\titlespacing*{\part}{0pt}{0pt}{0pt}
 
 
 \usepackage[french]{minitoc}
@@ -17,6 +21,7 @@
 %\renewcommand\ptctitle{}
 \renewcommand\beforeparttoc{}
 
+%p. 52
 
 
 \usepackage[french]{babel}
@@ -24,22 +29,24 @@
 
 \newcommand{\text}[3][\DefaultOpt]{%
 	\def\DefaultOpt{#2}%
-	\part[#1]{#2\\~\\\normalsize\normalfont texte original de #3}%
+	\part[#1]{#2\\\vspace{10pt}\normalsize\normalfont\begin{spacing}{1.2} texte original de #3\end{spacing}}%
+	\renewcommand\ptctitle{\thepart.\ #1}
 	\mtcaddpart
 	\parttoc
 	\cleardoublepage
 }
 
-\renewcommand{\chaptermark}[1]{\markboth{\parbox{0.95\textwidth}{\raggedleft\thechapter.\ #1}}{\parbox{0.95\textwidth}{\thechapter.\ #1}}}
-\renewcommand{\sectionmark}[1]{\markright{\parbox{0.95\textwidth}{\thesection.\ #1}}{}}
+\renewcommand{\partmark}[1]{\markboth{\parbox{0.90\textwidth}{\raggedleft\thepart.\ \MakeUppercase#1}}{\parbox{0.90\textwidth}{\thepart.\ \MakeUppercase#1}}}
+\renewcommand{\chaptermark}[1]{\markboth{\parbox{0.90\textwidth}{\raggedleft\thechapter.\ #1}}{\parbox{0.90\textwidth}{\thechapter.\ #1}}}
+\renewcommand{\sectionmark}[1]{\markright{\parbox{0.90\textwidth}{\thesection.\ #1}}{}}
 \addto\captionsfrench{\renewcommand{\partname}{Texte}}
 
 
 %\usepackage[placement=center,angle=0,color=blue!95,scale=11]{background}
 %\backgroundsetup{contents={-\thepage-}}
 
-\title{Le Livret Libertaire}
-\author{Traduction de texte}
+\title{Le Livret Libertaire\\[2em]\large Traduction de texte}
+\author{\normalsize traduit et relié par @la.corvina \and \normalsize mis en page par @LoskrAES}
 
 \begin{document} 
 
@@ -56,10 +63,13 @@ ptit texte introductif à ce qui suis.
 \mainmatter
 
 \text{L'État}{la Fédération des Communistes Anarchistes (Italie)}
-\input{l-etat.tex}
+\input{l-etat}
 
 \text[Es-tu anarchiste ?]{Es-tu anarchiste ?\\~\\La réponse pourrait te surprendre !}{David Greaber}
 \input{est-tu-anarchist}
+
+\text{Qu’est-ce que la démocratie?}{}
+\input{democratie}
 
 
 \backmatter

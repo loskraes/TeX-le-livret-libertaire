@@ -5,6 +5,10 @@
 *.out
 *.toc
 *.pdf
+*.maf
+*.mtc
+*.mtc?
+*.ptc?
 *-booklet_a?.tex
 *-??let_a?.tex
 *-doublepages_a?.tex

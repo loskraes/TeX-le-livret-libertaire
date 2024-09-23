@@ -52,6 +52,10 @@ booklet-16.pdf: booklet-16.tex main.pdf
 
 clean:
 	latexmk -c
+	rm -f *.maf
+	rm -f *.mtc
+	rm -f *.mtc?
+	rm -f *.ptc?
 dist-clean: clean
 	latexmk -C
 	@# remove generated tex file
