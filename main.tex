@@ -26,10 +26,18 @@
 
 \usepackage[french]{babel}
 \usepackage[pdfpagelayout=TwoPageRight,colorlinks,hidelinks]{hyperref}
+\usepackage{afterpage}
 
-\newcommand{\text}[3][\DefaultOpt]{%
+\newcommand\blankpage[1][0]{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{#1}%
+    \newpage}
+
+
+\newcommand{\text}[4][\DefaultOpt]{%
 	\def\DefaultOpt{#2}%
-	\part[#1]{#2\\\vspace{10pt}\normalsize\normalfont\begin{spacing}{1.2} texte original de #3\end{spacing}}%
+	\part[#1]{#2\\\vspace{10pt}\normalsize\normalfont\begin{spacing}{1.2} écrit par #3\\traduit de #4\end{spacing}}%
 	\renewcommand\ptctitle{\thepart.\ #1}
 	\mtcaddpart
 	\parttoc
@@ -41,38 +49,93 @@
 \renewcommand{\sectionmark}[1]{\markright{\parbox{0.90\textwidth}{\thesection.\ #1}}{}}
 \addto\captionsfrench{\renewcommand{\partname}{Texte}}
 
+%\usepackage[placement=center,angle=0,color=blue!35,scale=11]{background}
+%\backgroundsetup{contents={\thepage}}
+\usepackage[placement=center,angle=45,color=black!35,scale=4]{background}
+\backgroundsetup{contents={}}
 
-%\usepackage[placement=center,angle=0,color=blue!95,scale=11]{background}
-%\backgroundsetup{contents={-\thepage-}}
 
-\title{Le Livret Libertaire\\[2em]\large Traduction de texte}
-\author{\normalsize traduit et relié par @la.corvina \and \normalsize mis en page par @LoskrAES}
+\title{Le Livret Libertaire\\[2em]\large Premier recueil\\[2em]\large Traduction de texte}
+\author{\normalsize traduit et relié par \bsc{La Corvina} \and \normalsize mis en page par \bsc{LoskrAES}}
+\date{septembre 2024}
+
+
+\counterwithin*{chapter}{part}
 
 \begin{document} 
+\fontsize{12}{15}\selectfont
+
+\afterpage{\blankpage[-4]}
+\afterpage{\blankpage}
+\afterpage{\blankpage}
+\afterpage{\blankpage}
 
 \frontmatter
 \maketitle
 
-\chapter*{information page}
-Qui a fait quoi ici ?
-\chapter*{introduction}
-ptit texte introductif à ce qui suis.
+\begin{flushleft}
+	\vspace*{\fill}
+	\small
 
+	Traduit et relié à la main par \bsc{La Corvina} (Instagram \texttt{@la.corvina})\\
+	Mis en page par \bsc{LoskrAES} (Instagram \texttt{@LoskrAES})\\
+	Écrit par nos camarades lointains\\
+	Que ce soit dans l’espace ou dans le temps\\
+	~\\
+	Contact : \href{mailto:reliurecorvina@proton.me}{reliurecorvina@proton.me}\\
+	~\\
+	Produit en 2024
+\end{flushleft}
+
+\input{mot-aux-lect}
+
+%\chapter*{information page}
+%Qui a fait quoi ici ?
+%\chapter*{introduction}
+%ptit texte introductif à ce qui suis.
+
+\fontsize{11}{12}\selectfont
 \shorttoc{Liste des textes}{-1}
+\fontsize{12}{15}\selectfont
 
 \mainmatter
 
-\text{L'État}{la Fédération des Communistes Anarchistes (Italie)}
-\input{l-etat}
-
-\text[Es-tu anarchiste ?]{Es-tu anarchiste ?\\~\\La réponse pourrait te surprendre !}{David Greaber}
+\text[Es-tu anarchiste ?]{Es-tu anarchiste ?\\~\\La réponse pourrait te surprendre !}{David \bsc{Greaber}}{l'anglais}
+\makeatletter\@openrightfalse\makeatother
 \input{est-tu-anarchist}
+\makeatletter\@openrighttrue\makeatother%
 
-\text{Qu’est-ce que la démocratie?}{}
+\text{Qu’est-ce que la démocratie?}{Peter \bsc{Gelderloos}}{l'anglais}
+\makeatletter\@openrightfalse\makeatother
 \input{democratie}
+\makeatletter\@openrighttrue\makeatother%
 
+\text{Sommes-nous assez bons ?}{Pierre \bsc{Kropotkine}}{l'anglais}
+\makeatletter\@openrightfalse\makeatother
+\input{assez-bons}
+\makeatletter\@openrighttrue\makeatother%
+
+\text{L'État}{la Fédération des Communistes Anarchistes (Italie)}{l'italien et de l'anglais}
+\makeatletter\@openrightfalse\makeatother
+\input{l-etat}
+\makeatletter\@openrighttrue\makeatother%
+
+\text{Le Parti et la Classe}{Anton \bsc{Pannekoek}}{l'anglais}
+\makeatletter\@openrightfalse\makeatother
+\input{parti-classe}
+\makeatletter\@openrighttrue\makeatother%
+
+\text{L'Organisation Politique}{la Fédération des Communistes Anarchistes (Italie)}{l'italien et de l'anglais}
+\makeatletter\@openrightfalse\makeatother
+\input{l-orga}
+\makeatletter\@openrighttrue\makeatother%
 
 \backmatter
+\fontsize{11}{12}\selectfont
 \tableofcontents
  
+%\afterpage{\blankpage}
+%\afterpage{\blankpage}
+%\afterpage{\blankpage}
+%\afterpage{\blankpage}
 \end{document}

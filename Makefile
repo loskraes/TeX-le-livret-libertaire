@@ -7,6 +7,8 @@ all: a4.pdf a5.pdf a6.pdf a5-booklet_a4.pdf a6-booklet_a5.pdf a5-16let_a4.pdf a6
 %.tex: %.md
 	kramdown -o latex $< | tail -n +5 | sed 's/\\section{/\\chapter{/; s/\\subsection{/\\section{/; s/\\subsubsection{/\\subsection{/; s/\\paragraph{/\\subsubsection{/; s/\\subparagraph{/\\paragraph{/;'> $@
 
+$(CONTENT_TEX):
+
 a4.pdf:
 a5.pdf:
 a5-booklet_a4.pdf:
@@ -14,6 +16,8 @@ a5-16let_a4.pdf:
 a6.pdf:
 a6-booklet_a5.pdf:
 a6-16let_a5.pdf:
+a6-20let_a5.pdf:
+a6-20let_a5-doublepages_a4.pdf:
 a6-16let_a5-doublepages_a4.pdf:
 
 %.pdf: %.tex $(CONTENT_TEX)
@@ -42,6 +46,13 @@ a6-16let_a5-doublepages_a4.pdf:
 .PRECIOUS: %-16let_a5.tex
 %-16let_a5.tex: template/n-let.tex.template %.pdf
 	cat $< | sed 's/FORMAT/a5/;s/SOURCE/$*/;s/SIGNATURE/16/' > $@
+
+.PRECIOUS: %-16let_a4.tex
+%-20let_a4.tex: template/n-let.tex.template %.pdf
+	cat $< | sed 's/FORMAT/a4/;s/SOURCE/$*/;s/SIGNATURE/20/' > $@
+.PRECIOUS: %-16let_a5.tex
+%-20let_a5.tex: template/n-let.tex.template %.pdf
+	cat $< | sed 's/FORMAT/a5/;s/SOURCE/$*/;s/SIGNATURE/20/' > $@
 
 
 

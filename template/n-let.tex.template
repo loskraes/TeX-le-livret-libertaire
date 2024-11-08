@@ -3,6 +3,10 @@
 
 \usepackage{pdfpages}
 
+
+%\usepackage[placement=center,angle=0,color=black!35,scale=1]{background}
+%\backgroundsetup{contents={\ifodd\value{page} \else \tiny\the\numexpr \thepage / 2\relax\fi}}
+
 \begin{document}
 \includepdf[pages=-, nup=2x1, noautoscale, signature=SIGNATURE]{SOURCE}
 \end{document}

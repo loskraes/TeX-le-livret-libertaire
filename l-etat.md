@@ -2,7 +2,7 @@
 
 Par la Fédération des Communistes Anarchistes (Italie)
 
-# AVANT-PROPOS
+# Avant-propos
 
 ## Crise de l'État Providence et la consociation
 
@@ -27,13 +27,13 @@ Cependant, la crise de la structure de l'État Providence incite certains d'entr
 En tant que communistes anarchistes, nous pouvons et devons lutter pour la liquidation de l'État, mais cela ne signifie pas qu'il faille lutter pour que le coût et la responsabilité de la fourniture de certains services n'incombent pas à la structure sociale. Bien sûr, pour nous, les organes de gestion politique et administrative changent – nous ne soutiendrons jamais le système de santé comme il existe – mais nous devrons certainement penser à un service de santé qui offre assistance et aide à tous les citoyens et dont les coûts incombent à la communauté. Il en va de même pour les écoles, le nettoyage des rues, la distribution de l'eau et les services de transport que l'on appelle communément les services publics. Le problème n'est donc pas celui de la nature publique ou privée de certains services, mais celui de l'organe ou des organes politiques qui gèrent et géreront l'entreprise, de la composition des organes administratifs, même s'ils sont techniquement nécessaires, et de la manière dont les contrôles politiques sont exercés sur eux par la collectivité.  
  
 
-# INTRODUCTION
+# Introduction
 
 Un des piliers de l'anarchisme historique est sans aucun doute l'anti-étatisme. Sans vouloir aller jusqu'aux excès de ceux qui nient même l'État Providence à cause de la présence de ce terrible petit mot et tombent dans les bras du libéralisme le plus féroce, même chez nous, trop souvent, la conception de la nécessité d'une société sans État conduit à des distorsions, qui proviennent, à notre avis, d'une prise en charge hâtive du bagage historique de l'anarchisme. Ce bagage doit en fait être contextualisé et analysé en profondeur, à une époque où le capitalisme rampant prône la dissolution de l'État en tant qu'appareil administratif bureaucratique qui perçoit des impôts et fournit des services.
 
  
 
-# LA NAISSANCE DE L'ÉTAT ET CE QUI L'A PRÉCÉDÉ
+# La naissance de l'État et ce qui l'a précédé
 
 Un peu d'histoire ne nuit à personne \! Le moloch d'État est né, dans sa configuration moderne, il y a plus de deux siècles. Cela coïncide étroitement avec l'émergence de la classe bourgeoise comme nouvelle classe dirigeante. Ce n'est pas un hasard si la plupart des fonctions typiques de l'État moderne prennent forme dans la France de la révolution de 1789\. Il est logique de s'interroger sur les raisons profondes de cette transformation des structures de pouvoir dans la société, sur les relations sociales qui ont cessé d'exister pour faire place à d'autres, sur les changements que cela a entraînés dans les relations de classe et, surtout, sur la manière dont la domination de la classe bourgeoise émergente s'est articulée.
 
@@ -47,7 +47,7 @@ Le concept des droits n'existait même pas. Dans l'Antiquité, celle-ci ne s'app
 
 ## L'État libéral et le droit
 
-*Liberté, fraternité, égalité,* telle est la devise fondatrice de l'État libéral moderne. Inutile de répéter, entre nous, l'hypocrisie qu'elle recèle. Ce qui est intéressant, c'est une autre considération. Le passage d'une organisation sociale dépourvue de règles (seule celle du plus fort) à une organisation qui se prétend fondée sur des règles de base au-dessus de tout individu est loin d'être sans intérêt. Le principe, même s'il tend toujours à être ignoré, est là et il produit ses effets, malgré l'arrogance du pouvoir.
+*Liberté, fraternité, égalité,* telle est la devise fondatrice de l'État libéral moderne. Inutile de répéter, entre nous, l'hypocrisie qu'elle recèle. Ce qui est intéressant, c'est une autre considération. Le passage d'une organisation sociale dépourvue de règles (seule celle du plus fort) à une organisation qui se prétend fondée sur des règles fondamentales au-dessus de tout individu est loin d'être sans intérêt. Le principe, même s'il tend toujours à être ignoré, est là et il produit ses effets, malgré l'arrogance du pouvoir.
 
 Pour donner un exemple, l'organisation des travailleurs serait inconcevable dans la société féodale ; attention, il s'agit d'une organisation des travailleurs et non d'une révolte. En effet, des révolutions même sanglantes (et même réussies) étaient possibles avant la révolution bourgeoise, mais la conquête progressive de portions croissantes de richesses ne l'était pas. Il est évident que ces conquêtes sont partielles, souvent temporaires car (comme nous le constatons aujourd'hui) elles sont résorbables, et que la seule étape qui compte est l'étape révolutionnaire. Cela n'enlève rien à deux choses : d'une part, comme le disait Malatesta, la gymnastique de la lutte est une gymnastique pour la révolution, d'autant plus nécessaire pour ceux qui, comme nous, croient en une révolution consciente et conscientisée, non réabsorbable par les prétentions d'une nouvelle classe dominante en vertu de son savoir. Et d'autre part, le fait que tout ce qui améliore la vie des gens aujourd'hui n'est pas méprisable simplement parce que ce n'est pas le communisme libertaire en soi.
 
@@ -55,7 +55,7 @@ La société libérale, en se couvrant du voile des droits humains, voile néces
 
 ## Participation progressive
 
-« *Le solidarisme kropotkinien, développé sur le terrain naturaliste et ethnographique, confondait l'harmonie de la nécessité biologique des abeilles avec la discordia concors et la concordia discors propres à l'agrégat social, et avait trop (sic \!) de formes primitives de sociétés-associations présentes pour comprendre l'ubi societas ibi jus, “ là où il y a une société, il y a un droit ”, inhérent à des formes politiques qui ne sont pas préhistoriques ».*
+« *Le solidarisme kropotkinien, développé sur le terrain naturaliste et ethnographique, confondait l'harmonie de la nécessité biologique des abeilles avec la discordia concors et la concordia discors propres à l'agrégat social, et avait trop (sic \!) de formes primitives de sociétés-associations présentes pour comprendre l'ubi societas ibi jus, “ là où il y a une société, il y a de la loi ” , inhérent à des formes politiques qui ne sont pas préhistoriques ».*
 
 Cette citation nous fournit deux bases de réflexion utiles.
 
@@ -65,7 +65,7 @@ La seconde est que les règles « partagées » auront une double valeur : lier 
 
  
 
-# L'ÉTAT DU 19ÈME SIÈCLE ET LA NAISSANCE DE LA THÉORIE ANARCHISTE
+# L'État du 19ème siècle et la naissance de la théorie anarchiste
 
 Le point de départ de la réflexion anarchiste sur le rôle de l'État avant, pendant et après la révolution sociale est sans aucun doute Bakounine. Il faut dire tout de suite que pour comprendre le rôle de l'État moderne et les moyens de le dépasser, l'approche bakouniniste n'est pas d'un grand secours, parce qu'elle est trop liée aux nécessités de sa lutte et son contexte. Malheureusement, certaines de ses affirmations, prises hors contexte et sans aucun effort d'interprétation, ont été rendues incontestables et pour des principes inflexibles et immuables de l'anarchisme. Pour sortir d'une supposition superficielle de mots d'ordre qui finissent par fausser toute entreprise politique, il est nécessaire de faire quelques rappels.
 
@@ -87,7 +87,7 @@ Bakounine avait également averti que le non-État anglais (décentralisé) n'é
 
 Cependant, Bakounine ne semble pas toujours indifférent aux règles de la société dans laquelle se déroule la lutte révolutionnaire, ce qui prouve que cet aspect n'est resté que peu développé dans sa pensée.
 
-# L'ÉVOLUTION DE L'ÉTAT
+# L'évolution de l'État
 
 Bien qu'au milieu du siècle dernier l'évolution de l'organisme étatique ait déjà pris des proportions repérables (mais qui ont échappé non seulement à Bakounine pour les raisons mentionnées plus haut, mais aussi à Marx), les connotations qu'il allait prendre étaient en effet difficiles à prévoir. Il y a deux considérations qu'il est intéressant de développer : d'une part, l’amalgame des compétences qu'il en est venu à assumer et l'évaluation de leurs retombées dans l'organisation sociale dans son ensemble ; d'autre part, si l’existence de l'État n’a que eu des impacts négatifs sur le « progrès » du genre humain, il doit être considéré comme une parenthèse de la tendance humaine originelle à la solidarité mutuelle. Il est évident que la réponse à ces deux questions est loin d'être négligeable pour l'évaluation des luttes d'aujourd'hui, bien qu'elle puisse difficilement constituer, comme nous le verrons, un changement de perspective pour la réalisation d'une société sans classes et, d'ailleurs, sans État.
 
@@ -137,7 +137,7 @@ Il résulte des remarques sommaires qui précèdent qu'en un siècle et demi (et
 
 Il est donc nécessaire de reconsidérer l'ensemble de la question si l'on veut échapper à l'emprise de l'acceptation de l'appareil d'État tel qu'il est ou à la négation a priori de tout ce qui en découle, ce qui nous conduirait tout autant dans les bras du néolibéralisme le plus agressif.
 
-# L'AMBIGUÏTÉ DU RÔLE DE L'ÉTAT
+# L'ambiguïté du rôle de l'État
 
 Si l'on fait abstraction de l'État absolutiste ou théocratique, pure expression du pouvoir d'une caste privilégiée (contre laquelle s'exerçait la critique de Bakounine, comme nous l'avons vu), encore en vigueur dans de nombreux pays au milieu du XIXe siècle, mais en tant que phénomène résiduel, notre attention doit se porter sur l'État libéral, désormais solidement implanté dans tout le monde du haut développement capitaliste (et dont on sait qu'il représente un moindre mal dans les pays tiers encore opprimés par des dictatures féroces).
 
@@ -179,9 +179,7 @@ On peut d'ailleurs ajouter que le développement de la protection sociale marque
 
 Et n'oublions pas que si l'État est un obstacle à toute réalisation révolutionnaire, et qu'il doit disparaître dès le premier instant de tout renversement des rapports de force entre la bourgeoisie et le prolétariat, même son apparition historique représente un progrès par rapport à l'arbitraire barbare qui l'a précédé, et que sa disparition, sans renversement des rapports de propriété actuels, éloigne plus qu'elle ne rapproche du but.
 
- 
-
-# À PROPOS DES RÈGLES
+# À propos des règles
 
 L'anti-étatisme anarchiste a sans doute le mérite d'avoir historiquement porté l'attention sur des aspects que le marxisme a résolument négligés : le rôle du pouvoir politique, le rôle des institutions pendant et après l'événement révolutionnaire, le rôle des classes intellectuelles, la logique interne de l'administration et sa capacité d'auto-reproduction, l'autonomie évolutive de la superstructure dans certaines conditions et son influence sur l'évolution générale. Dans tous ces domaines, les acquisitions sont théoriquement irréversibles et prouvées par l'expérience des diverses tentatives de construction du socialisme autour des paramètres des formes les plus variées du marxisme.
 
@@ -193,9 +191,7 @@ Il est cependant nécessaire de nettoyer l'antiétatisme des débris qu'il traî
 
 C'est ainsi que l'on peut préparer la voie à une autogestion efficace de la société et à des services qui comblent les inégalités que la nature crée entre les êtres humains, ce qui est le sens véritable et le plus profond du service public.
 
- 
-
-# POUR LA LIQUIDATION DE L'ÉTAT
+# Pour la liquidation de l'État
 
 Avant d'aborder le problème de la période de transition, il est nécessaire que l'organisation politique des communistes anarchistes clarifie brièvement, non seulement sur le plan terminologique, mais fondamentalement sur le plan stratégique, les différentes conceptions qui préfigurent la fin de l'État bourgeois, suite à la rupture politico-institutionnelle provoquée par une révolution victorieuse du prolétariat.
 
@@ -205,8 +201,9 @@ A l'opposé de ces deux conceptions, nous en trouvons deux autres que nous rejet
 
 Si, dans les deux premiers cas, nous ne voyons pas l'intérêt d'une action minoritaire violente d'un groupe politique contre l'État s'il n'y a pas d'auto-organisation réelle du prolétariat, en même temps, dans les deux autres cas, nous considérons qu'un processus spontané et automatique d'extinction de l'État est impossible sans l'action révolutionnaire de la classe subordonnée qui travaille dans ce sens.
 
-Le choix stratégique de base des communistes anarchistes s'oriente vers la conception de la « liquidation de l'État », comme action politique et économique d'organisation de l'autonomie prolétarienne visant à rendre impossible toute reconstruction de l'État et à lui ôter ainsi toute base sur le plan social.
+Le choix stratégique fondamental des communistes anarchistes s'oriente vers la conception de la « liquidation de l'État », comme action politique et économique d'organisation de l'autonomie prolétarienne visant à rendre impossible toute reconstruction de l'État et à lui ôter ainsi toute base sur le plan social.
 
 La liquidation de l'État est donc l'acte final d'un processus qui est déjà né et s'est développé au sein de la société divisée en classes et en opposition absolue à celle-ci, et qui marque la rupture définitive et totale entre le système classiste et autoritaire et la nouvelle société communiste anarchiste.
 
 La liquidation de l'État s'identifie donc à la destruction des structures d'exploitation et des appareils de domination, à la transition de la société divisée en classes à la société communiste anarchiste, réalisant l'objectif révolutionnaire de la destruction des institutions légales, militaires et administratives des rapports de classes sociales pour permettre la mise en oeuvre de méthodes communistes de production, de distribution et de régulation sociale sous le contrôle et l'autogestion des structures prolétariennes fédérées et autogérées de façon libertaire.
+
