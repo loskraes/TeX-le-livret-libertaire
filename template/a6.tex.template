@@ -8,4 +8,4 @@
 \sloppy
 \widowpenalty=5000
 
-\input{main}
+\input{../../main}

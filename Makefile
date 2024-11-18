@@ -1,65 +1,78 @@
 
-MD=$(wildcard *.md)
+SRC=src
+BUILD=build
+PDFOUT=pdf/
+MD=$(wildcard $(SRC)/*.md)
 CONTENT_TEX=main.tex $(patsubst %.md,%.tex,$(MD))
 
-all: a4.pdf a5.pdf a6.pdf a5-booklet_a4.pdf a6-booklet_a5.pdf a5-16let_a4.pdf a6-16let_a5.pdf a6-16let_a5-doublepages_a4.pdf
+all: $(PDFOUT)a4.pdf $(PDFOUT)a5.pdf $(PDFOUT)a6.pdf $(PDFOUT)a5-booklet_a4.pdf $(PDFOUT)a6-booklet_a5.pdf $(PDFOUT)a5-16let_a4.pdf $(PDFOUT)a6-16let_a5.pdf $(PDFOUT)a6-16let_a5-doublepages_a4.pdf
 .PRECIOUS: %.tex
 %.tex: %.md
 	kramdown -o latex $< | tail -n +5 | sed 's/\\section{/\\chapter{/; s/\\subsection{/\\section{/; s/\\subsubsection{/\\subsection{/; s/\\paragraph{/\\subsubsection{/; s/\\subparagraph{/\\paragraph{/;'> $@
 
 $(CONTENT_TEX):
 
-a4.pdf:
-a5.pdf:
-a5-booklet_a4.pdf:
-a5-16let_a4.pdf:
-a6.pdf:
-a6-booklet_a5.pdf:
-a6-16let_a5.pdf:
-a6-20let_a5.pdf:
-a6-20let_a5-doublepages_a4.pdf:
-a6-16let_a5-doublepages_a4.pdf:
+$(BUILD)/_template/%.tex: template/%.tex.template
+	mkdir -p $(BUILD)/_template
+	cp $< $@
 
-%.pdf: %.tex $(CONTENT_TEX)
-	latexmk $*
+$(PDFOUT)a4.pdf:
+$(PDFOUT)a5.pdf:
+$(PDFOUT)a5-booklet_a4.pdf:
+$(PDFOUT)a5-16let_a4.pdf:
+$(PDFOUT)a6.pdf:
+$(PDFOUT)a6-booklet_a5.pdf:
+$(PDFOUT)a6-16let_a5.pdf:
+$(PDFOUT)a6-20let_a5.pdf:
+$(PDFOUT)a6-20let_a5-doublepages_a4.pdf:
+$(PDFOUT)a6-16let_a5-doublepages_a4.pdf:
 
-%-booklet_a4.pdf: %-booklet_a4.tex %.pdf
-%-booklet_a5.pdf: %-booklet_a5.tex %.pdf
-%-16let_a4.pdf: %-16let_a4.tex %.pdf
-%-16let_a5.pdf: %-16let_a5.tex %.pdf
-%-doublepages_a4.pdf: %-doublepages_a4.tex %.pdf
+$(PDFOUT)%.pdf: $(BUILD)/_template/%.tex $(CONTENT_TEX)
+	mkdir -p $(BUILD)/$*
+	cp $< $(BUILD)/$*
+	rm -f $(BUILD)/$*/$(SRC)
+	ln -s ../../$(SRC) $(BUILD)/$*
+	cd $(BUILD)/$* && latexmk -out2dir=../../$(PDFOUT) $* 
+
+$(PDFOUT)%-booklet_a4.pdf: %-booklet_a4.tex $(PDFOUT)%.pdf
+$(PDFOUT)%-booklet_a5.pdf: %-booklet_a5.tex $(PDFOUT)%.pdf
+$(PDFOUT)%-16let_a4.pdf: %-16let_a4.tex $(PDFOUT)%.pdf
+$(PDFOUT)%-16let_a5.pdf: %-16let_a5.tex $(PDFOUT)%.pdf
+$(PDFOUT)%-doublepages_a4.pdf: %-doublepages_a4.tex $(PDFOUT)%.pdf
 
 .PRECIOUS: %-doublepages_a4.tex
-%-doublepages_a4.tex: template/doublepages.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a4/;s/SOURCE/$*/' > $@
+$(BUILD)/_template/%-doublepages_a4.tex: template/doublepages.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a4/;s~SOURCE~$(PDFOUT)$*~' > $@
 
 .PRECIOUS: %-booklet_a4.tex
-%-booklet_a4.tex: template/booklet.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a4/;s/SOURCE/$*/' > $@
+$(BUILD)/_template/%-booklet_a4.tex: template/booklet.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a4/;s~SOURCE~$(PDFOUT)$*~' > $@
 .PRECIOUS: %-booklet_a5.tex
-%-booklet_a5.tex: template/booklet.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a5/;s/SOURCE/$*/' > $@
+$(BUILD)/_template/%-booklet_a5.tex: template/booklet.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a5/;s~SOURCE~$(PDFOUT)$*~' > $@
 
 .PRECIOUS: %-16let_a4.tex
-%-16let_a4.tex: template/n-let.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a4/;s/SOURCE/$*/;s/SIGNATURE/16/' > $@
+$(BUILD)/_template/%-16let_a4.tex: template/n-let.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a4/;s~SOURCE~$(PDFOUT)$*~;s/SIGNATURE/16/' > $@
 .PRECIOUS: %-16let_a5.tex
-%-16let_a5.tex: template/n-let.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a5/;s/SOURCE/$*/;s/SIGNATURE/16/' > $@
+$(BUILD)/_template/%-16let_a5.tex: template/n-let.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a5/;s~SOURCE~$(PDFOUT)$*~;s/SIGNATURE/16/' > $@
 
 .PRECIOUS: %-16let_a4.tex
-%-20let_a4.tex: template/n-let.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a4/;s/SOURCE/$*/;s/SIGNATURE/20/' > $@
+$(BUILD)/_template/%-20let_a4.tex: template/n-let.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a4/;s~SOURCE~$(PDFOUT)$*~;s/SIGNATURE/20/' > $@
 .PRECIOUS: %-16let_a5.tex
-%-20let_a5.tex: template/n-let.tex.template %.pdf
-	cat $< | sed 's/FORMAT/a5/;s/SOURCE/$*/;s/SIGNATURE/20/' > $@
+$(BUILD)/_template/%-20let_a5.tex: template/n-let.tex.transform $(PDFOUT)%.pdf
+	mkdir -p $(BUILD)/_template/
+	cat $< | sed 's/FORMAT/a5/;s~SOURCE~$(PDFOUT)$*~;s/SIGNATURE/20/' > $@
 
 
-
-booklet.pdf: booklet.tex main.pdf
-	latexmk $<
-booklet-16.pdf: booklet-16.tex main.pdf
-	latexmk $<
 
 clean:
 	latexmk -c
@@ -67,6 +80,7 @@ clean:
 	rm -f *.mtc
 	rm -f *.mtc?
 	rm -f *.ptc?
+	rm -fr $(BUILD)/
 dist-clean: clean
 	latexmk -C
 	@# remove generated tex file

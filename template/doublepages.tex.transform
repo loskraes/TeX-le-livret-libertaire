@@ -4,7 +4,7 @@
 \usepackage{pdfpages}
 
 \begin{document}
-\includepdf[pages=-, nup=1x2, doublepages, noautoscale]{SOURCE}
+\includepdf[pages=-, nup=1x2, doublepages, noautoscale]{../../SOURCE}
 %doublepagestwistodd,  
 \end{document}
 

@@ -4,7 +4,7 @@
 \usepackage{pdfpages}
 
 \begin{document}
-\includepdf[pages=-, nup=2x1, noautoscale, booklet]{SOURCE}
+\includepdf[pages=-, nup=2x1, noautoscale, booklet]{../../SOURCE}
 \end{document}
 
 

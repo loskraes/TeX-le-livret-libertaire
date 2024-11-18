@@ -1,5 +1,5 @@
 \documentclass[a4paper]{book}
 
-\input{main}
+\input{../../main}
 
 
