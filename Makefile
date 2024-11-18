@@ -32,7 +32,9 @@ $(PDFOUT)%.pdf: $(BUILD)/_template/%.tex $(CONTENT_TEX)
 	cp $< $(BUILD)/$*
 	rm -f $(BUILD)/$*/$(SRC)
 	ln -s ../../$(SRC) $(BUILD)/$*
-	cd $(BUILD)/$* && latexmk -out2dir=../../$(PDFOUT) $* 
+	cd $(BUILD)/$* && latexmk -pdf $* 
+	mkdir -p $(PDFOUT)/
+	cp $(BUILD)/$*/$*.pdf $(PDFOUT)/
 
 $(PDFOUT)%-booklet_a4.pdf: %-booklet_a4.tex $(PDFOUT)%.pdf
 $(PDFOUT)%-booklet_a5.pdf: %-booklet_a5.tex $(PDFOUT)%.pdf
@@ -87,3 +89,4 @@ dist-clean: clean
 	rm -f *-booklet_a?.tex
 	rm -f *-??let_a?.tex
 	rm -f *-doublepages_a?.tex
+	rm -fr pdf/
